@@ -1,14 +1,14 @@
 # 💰 Adult Census Income Classification
 
-**Name:** Akshat Garg  
+**Name:** Ayushi karwa
 
-**Registration Number:** 23BCE10641
+**Registration Number:** 23BCE11001
 
-**Application Number:** IN26011052
+**Application Number:** IN26011444
 
-**Batch Number:** 1A
+**Batch Number:** 2B
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
+**Email ID:** ayushi.23bce11001@vitbhopal.ac.in 
 
 A machine learning project that predicts whether an individual's annual income exceeds **$50K** based on demographic and employment features from the **Adult Census Income Dataset** (Kaggle).
 
@@ -150,7 +150,7 @@ cd "Adult Census Income Classification"
 pip install numpy pandas scikit-learn kagglehub jupyter
 
 # 3. Launch the notebook
-jupyter notebook "Assignment Akshat Garg.ipynb"
+jupyter notebook "Assignment .ipynb"
 ```
 
 > **Note:** The notebook automatically downloads the dataset using `kagglehub`. Ensure your Kaggle API credentials are configured (`~/.kaggle/kaggle.json`).
@@ -161,7 +161,7 @@ jupyter notebook "Assignment Akshat Garg.ipynb"
 
 ```
 Adult Census Income Classification/
-├── Assignment Akshat Garg.ipynb   # Main notebook with full pipeline
+├── Assignment .ipynb   # Main notebook with full pipeline
 ├── README.md                      # Project documentation (this file)
 └── anaconda_projects/             # Anaconda project files
 ```
@@ -172,11 +172,11 @@ Adult Census Income Classification/
 
 | Field | Detail |
 |---|---|
-| **Name** | Akshat Garg |
-| **Registration No.** | 23BCE10641 |
-| **Application No.** | IN26011052 |
-| **Batch** | 1A |
-| **Email** | akshat.23bce10641@vitbhopal.ac.in |
+| **Name** | Ayushi karwa |
+| **Registration No.** | 23BCE11001 |
+| **Application No.** | IN26011444 |
+| **Batch** | 2B |
+| **Email** | ayushi.23bce11001@vitbhopal.ac.in  |
 
 ---
 
