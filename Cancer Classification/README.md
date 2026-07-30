@@ -1,14 +1,14 @@
 # 🧠 Brain Tumor Classification using CNN — MRI Images
 
-**Name:** Akshat Garg  
+**Name:** Ayushi karwa
 
-**Registration Number:** 23BCE10641
+**Registration Number:** 23BCE11001
 
-**Application Number:** IN26011052
+**Application Number:** IN26011444
 
-**Batch Number:** 1A
+**Batch Number:** 2B
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
+**Email ID:** ayushi.23bce11001@vitbhopal.ac.in  
 
 A deep learning project that classifies brain MRI scans into **4 categories** — Glioma, Meningioma, No Tumor, and Pituitary — using a custom **Convolutional Neural Network (CNN)** built with TensorFlow/Keras, targeting **90%+ accuracy**.
 
@@ -175,7 +175,7 @@ cd "Cancer Classification"
 pip install tensorflow matplotlib numpy scipy scikit-learn seaborn opendatasets
 
 # 3. Launch the notebook
-jupyter notebook "Cancer Classification AKSHAT GARG 23BCE10641.ipynb"
+jupyter notebook "Cancer Classification .ipynb"
 ```
 
 > **Note:** The notebook downloads the dataset automatically using `opendatasets`. You will be prompted for your Kaggle username and API key on first run.
@@ -186,7 +186,7 @@ jupyter notebook "Cancer Classification AKSHAT GARG 23BCE10641.ipynb"
 
 ```
 Cancer Classification/
-├── Cancer Classification AKSHAT GARG 23BCE10641.ipynb   # Main notebook
+├── Cancer Classificatio.ipynb   # Main notebook
 ├── README.md                                             # Project documentation
 └── brain-tumor-mri-dataset/                              # MRI image dataset
     ├── Training/                                         # ~5,600 training images
